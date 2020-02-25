@@ -41,6 +41,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://europe-west1-nwt-app-423ca.cloudfunctions.net/api",
-  "homepage": "http://myname.github.io/myapp"
+  "proxy": "https://europe-west1-nwt-app-423ca.cloudfunctions.net/api"
 }
