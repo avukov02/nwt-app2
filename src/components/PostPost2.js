@@ -57,7 +57,8 @@ class PostPost extends Component {
             display: "flex",
             position: "relative",
             flexDirection: "column",
-            margin: "30px auto 30px auto ",
+            marginTop: "30px",
+            marginBottom: "30px",
             maxWidth: 750,
             textAlign: "center",
             backgroundColor: "#fff"

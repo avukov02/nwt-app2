@@ -35,6 +35,9 @@ const theme = createMuiTheme({
   }
 });
 
+axios.defaults.baseURL =
+  "https://europe-west1-nwt-app-423ca.cloudfunctions.net/api";
+
 const token = localStorage.FBIdToken;
 if (token) {
   const decodedToken = jwtDecode(token);

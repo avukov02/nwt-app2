@@ -45,7 +45,7 @@ class Profile extends Component {
 
     let profileMarkup = !loading ? (
       authenticated ? (
-        <Paper style={{ marginTop: "20px", padding: "20px" }}>
+        <Paper style={{ marginTop: "30px", padding: "20px" }}>
           <div
             style={{
               display: "flex",
